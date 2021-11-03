@@ -1,4 +1,4 @@
-You just need to run the code and open the browser with the game (only works in offline games). 
+You just need to run the code and open the browser with the game (only works in offline game). 
 
 If you died, you need to restart the code and reopen the browser with the game.
 
